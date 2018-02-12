@@ -163,7 +163,7 @@
         font-size: 150%;
     }
 }
-@media only screen and (max-resolution: 5.2083dppx) {
+@media only screen and (min-resolution: 3dppx) {
     #hf1 {
         font-size: 50vw;
     }
