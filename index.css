@@ -165,7 +165,7 @@
 }
 @media only screen and (min-resolution: 290dpi) {
     #hid {
-        font-size: 35px;
+        font-size: 10vw;
     }
     #section2 {
         background-color: #585858;
