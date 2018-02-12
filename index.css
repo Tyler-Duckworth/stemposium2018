@@ -50,7 +50,7 @@
 #hid {
     font-family: 'Athelas Regular';
     text-align: center;
-    font-size: 300%;
+    font-size: 5vw;
     font-weight: 300;
     color: #C6A562;
 }
@@ -163,7 +163,7 @@
         font-size: 150%;
     }
 }
-@media only screen and (max-resolution: 5.2083dppx) {
+@media only screen and (min-resolution: 290dpi) {
     #hid {
         font-size: 35px;
     }
