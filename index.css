@@ -163,7 +163,7 @@
         font-size: 150%;
     }
 }
-@media only screen and (max-width: 400px) {
+@media only screen and (max-width: 750px) {
     #hf1 {
         font-size: 100px;
     }
