@@ -127,6 +127,7 @@
     padding-right: 1em;
     float: left;
 }
+/* Large Screen Text */
 @media only screen and (min-width: 1440px) {
     #hf1 {
         padding-top: 10%;
@@ -161,6 +162,18 @@
     p.summitor {
         margin-top: 150px;
         font-size: 150%;
+    }
+}
+/* Mac custom code */
+@media only screen and (min-width: 1000px) and (max-width:1400px) {
+    #h2comp {
+        margin-left: 50%;
+    }
+    .psec2 {
+        margin-left: 55.5%;
+    }
+    .psec3 {
+        margin-left: 47%;
     }
 }
 @media only screen and (max-width: 750px) {
