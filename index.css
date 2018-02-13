@@ -129,6 +129,10 @@
 }
 /* Large Screen Text */
 @media only screen and (min-width: 1440px) {
+    #myVideo {
+        width: 100%;
+        height: 100%;
+    }
     #hf1 {
         padding-top: 10%;
         font-size: 900%;
@@ -154,10 +158,10 @@
         margin-top:150px;
     }
     #section4h2 {
-        font-size: 550%;
+        font-size: 450%;
     }
     #section4p {
-        font-size: 350%;
+        font-size: 250%;
     }
     p.summitor {
         margin-top: 150px;
